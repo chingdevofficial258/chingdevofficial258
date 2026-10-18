@@ -5,7 +5,7 @@
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Passionate+Programmer+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80;Building+Projects+with+Code" alt="Typing SVG" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=chingdev0fficial&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
+  <img src="[https://komarev.com/ghpvc/?username=chingdev0fficial&label=Profile%20Views&color=00d9ff&style=for-the-badge](https://komarev.com/ghpvc/?username=chingdevofficial258&color=blue&style=flat-square&utm_source=chatgpt.com)" alt="Profile views" />
 </p>
 
 ---
